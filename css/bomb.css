@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+header{
+  width: 100%;
+  height: 100px;
+}
+.maze{
+  background-image: url(http://www.icpc-midcentral.us/archives/2014/mcpc2014/maze/fig_01.png);
+  background-position: cover;
+  width: 100%;
+  height: 500px;
+}
+img{
+  height: 40px;
+  width: 30px;
+}
